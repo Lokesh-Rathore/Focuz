@@ -14,3 +14,17 @@
   
    width: 70%;
 }
+
+.yt{
+   border-radius: 1rem !important;
+ width: auto !important;
+ height: 70% !important;
+}
+.secondary{
+   overflow-y: scroll;
+   border: 2px solid red;
+   width: 40%;
+}
+.secondary img{
+   width: auto !important;
+}
