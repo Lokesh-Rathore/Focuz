@@ -12,7 +12,7 @@
 
 ## Demo
 
-<img src=(https://github.com/ruds18/Focuz/blob/master/src/components/assets/home.png) />
+<img src= https://github.com/ruds18/Focuz/blob/master/src/components/assets/home.png />
 <img src="/src/components/assets/play.png" />
 
 
